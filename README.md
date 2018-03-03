@@ -1,2 +1,2 @@
 # Rave-Ruby-Library
-A Java Library Flutterwave Rave 💵💳
+A Ruby for Library Flutterwave Rave 💵💳
